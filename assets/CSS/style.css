@@ -8,3 +8,19 @@
 body {
     font-family: Roboto, "sans-serif";
 }
+
+#nav {
+    display: flex;
+    justify-content: center;
+}
+#nav a {
+    margin-top: 4vh;
+    font-size: 1rem;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#about-nav {
+    margin: 0 10vh 0 10vh;
+}
