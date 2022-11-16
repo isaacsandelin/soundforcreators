@@ -45,11 +45,22 @@ body {
 
 #hero h1 {
     font-size: 2.8rem;
-    margin-left: 5vh;
+    margin-left: 8vh;
 }
 
 #hero h4 {
     font-weight: 400;
+    font-size: 1.2rem;
     width: 50%;
-    margin: 2vh 0 5vh 5vh;
+    margin: 2vh 0 5vh 8vh;
+}
+
+#hero a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 8vh;
+    background-color: blue;
+    padding: 2vh;
+    border-radius: 1vh;
+    font-weight: 400;
 }
