@@ -106,16 +106,3 @@ body {
     text-align: center;
     margin-bottom: 4vh;
 }
-#info-cards {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-#info-cards h4 {
-    padding: 5vh 20vh 0 20vh;
-    font-size: 1.5rem;
-    font-weight: 400;
-}
