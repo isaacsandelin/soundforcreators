@@ -93,7 +93,7 @@ body {
     height: 40vh; 
 }
 
-/* HOW IT WORKES */
+/* HOW IT WORKS */
 #how-it-works {
     width: 100%;
     height: 80vh;
@@ -143,4 +143,58 @@ body {
     text-align: center;
     font-size: 1.5rem;
     margin: 0 4vh;
+}
+
+/* TESTIM0NIALS */
+
+#testimonials {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#testimonials h1 {
+    font-size: 2rem;
+    margin-bottom: 4vh;
+}
+#testi-1 {
+    width: 80%;
+    height: 40vh;
+    /* border: 1px solid blue; */
+    border-radius: 2vh;
+    display: flex;
+    flex-direction: column;
+    background: url(../images/testi-1.webp) no-repeat center center;
+    background-size: cover;
+}
+
+#testi-1 h1 {
+    width: 60%;
+    margin-top: 15vh;
+    margin-left: 2vh;
+}
+#testi-1 h4 {
+    margin-left: 2vh;
+}
+#testi-2 {
+    width: 80%;
+    height: 40vh;
+    /* border: 1px solid blue; */
+    border-radius: 2vh;
+    display: flex;
+    flex-direction: column;
+    background: url(../images/testi-2.webp) no-repeat center center;
+    background-size: cover;
+    margin-top: 5vh;
+}
+
+#testi-2 h1 {
+    width: 60%;
+    margin-top: 15vh;
+    margin-left: 2vh;
+}
+#testi-2 h4 {
+    margin-left: 2vh;
 }
