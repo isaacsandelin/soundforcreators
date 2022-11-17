@@ -198,3 +198,13 @@ body {
 #testi-2 h4 {
     margin-left: 2vh;
 }
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+}
+
+footer h4 {
+    margin-bottom: 2vh;
+}
