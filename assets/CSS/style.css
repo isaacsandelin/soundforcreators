@@ -106,3 +106,20 @@ body {
     text-align: center;
     margin-bottom: 4vh;
 }
+
+#h-i-w-info {
+    display: flex;
+    flex-direction: row;
+    padding: 0 5vh;
+}
+
+#left-about, #center, #right-about {
+    width: 33%;
+    height: 50vh;
+    border: 1px solid blue;
+    border-radius: 2vh;
+}
+
+#center {
+    margin: 0 5vh;
+}
