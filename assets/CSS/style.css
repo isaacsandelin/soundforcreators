@@ -88,7 +88,7 @@ body {
 }
 
 #slide-1 > img {
-    
+    border-radius: 2vh;
     width: 60vh;
     height: 40vh; 
 }
@@ -123,8 +123,20 @@ body {
     justify-content: center;
 }
 
+#left-about {
+    background: url(../images/Startfreetrial.webp) no-repeat center center;
+    background-size: cover;
+}
+
 #center {
     margin: 0 5vh;
+    background: url(../images/Findmusic.webp) no-repeat center center;
+    background-size: cover;
+}
+
+#right-about {
+    background: url(../images/Addtoedit.webp) no-repeat center center;
+    background-size: cover;
 }
 
 #h-i-w-info p {
