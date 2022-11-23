@@ -231,3 +231,37 @@ footer h4 {
     width: 70%;
     padding-left: 6vh;
 }
+
+#team-and-office {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#team-and-office img {
+    width: 100vh;
+    height: 60vh;
+    margin: 0 auto;
+}
+
+#team-and-office h1 {
+    font-size: 3rem;
+    font-weight: 300;
+    padding: 0 5vh 0 40vh;
+}
+
+#office-text {
+    display: flex;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+#office-text p {
+    font-size: 1rem;
+    font-weight: 300;
+    width: 40%;
+    padding-left: 6vh;
+}
