@@ -278,3 +278,14 @@ footer h4 {
     font-size: 3rem;
     font-weight: 300;
 }
+
+form {
+    display: flex;
+}
+
+#email {
+    padding: 2vh;
+    background-color: #ffffff27;
+    border: 1px solid rgba(255, 255, 255, 0.701);
+    border-radius: 2vh;
+}
